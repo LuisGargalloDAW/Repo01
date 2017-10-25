@@ -13,4 +13,7 @@
 	git status
 	git add 
 	git checkout 
-	git commit
+	git commit -m 
+
+
+# Este es otro cambio
