@@ -7,3 +7,10 @@
 ## Observaciones 
 1. Primera observacion
 2. Observacion 
+
+## Este es lo primero que he añadido en local
+- Vamos a ver los siguientes:
+	git status
+	git add 
+	git checkout 
+	git commit
